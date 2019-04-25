@@ -1,6 +1,11 @@
 # Elixir
 
-**TODO: Add description**
+Inside the lib folder you can find solution to some of the hackerrank.com problems. All of the solutions have their own test file under the test folder, named with the same way as the solution file.
+
+#### Available solutions
+
+- [Counting Valleys Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Counting Valleys Solution](silva96/hackerrank/elixir/lib/counting_valleys.ex) | [Counting Valleys Test](silva96/hackerrank/elixir/test/counting_valleys_test.exs)
+
 
 ## Installation
 
