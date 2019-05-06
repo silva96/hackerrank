@@ -4,8 +4,8 @@ Inside the lib folder you can find solution to some of the hackerrank.com proble
 
 #### Available solutions
 
-- [Counting Valleys Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Counting Valleys Solution](silva96/hackerrank/elixir/lib/counting_valleys.ex) | [Counting Valleys Test](silva96/hackerrank/elixir/test/counting_valleys_test.exs)
-- [Jumping Clouds Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Jumping Clouds Solution](silva96/hackerrank/elixir/lib/jumping_clouds.ex) | [Jumping Clouds Test](silva96/hackerrank/elixir/test/jumping_clouds_test.exs)
+- [Counting Valleys Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Counting Valleys Solution](elixir/lib/counting_valleys.ex) | [Counting Valleys Test](elixir/test/counting_valleys_test.exs)
+- [Jumping Clouds Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Jumping Clouds Solution](elixir/lib/jumping_clouds.ex) | [Jumping Clouds Test](elixir/test/jumping_clouds_test.exs)
 
 
 ## Installation
